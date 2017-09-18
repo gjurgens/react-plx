@@ -4,5 +4,4 @@ dist
 .module-cache
 *.log*
 _nogit
-lib
 dist-docs
